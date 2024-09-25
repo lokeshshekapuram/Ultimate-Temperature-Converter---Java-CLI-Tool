@@ -17,4 +17,5 @@ This project was a perfect way for me to practice key programming skills like ha
 
 - **Java**: The backbone of the program.
 - **Scanner Class**: For taking input from the user via the command line.
-- **Switch-Case Logic**: Used to determine the appropriate conversion based on the user's choice.
+- **Switch-Case Logic**: Used to determine the appropriate conversion based on the user's choice. 
+ 
